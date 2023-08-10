@@ -1,0 +1,9 @@
+Damage Reports:
+Equipment: Torx Screwdriver - Cause: joshua
+Equipment: Slip Joint Pliers - Cause: last test
+Equipment: Torx Screwdriver - Cause: new
+
+Loss Reports:
+Equipment: Gloves - Date Last Used: February/ 01/ 2023 - Name: joshua
+Equipment: Gloves - Date Last Used: January/ 01/ 2023 - Name: joshua padilla
+Equipment: Linesman Pliers - Date Last Used: April/ 04/ 2024 - Name: juan
